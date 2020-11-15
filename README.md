@@ -12,4 +12,4 @@ More specifically, the script runs wpr.exe to capture the following information 
 
 For more details on the type of information that can be collected by WPR, please visit: [Windows Performance Recorder Built-in Recording Profiles](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/built-in-recording-profiles). 
 
-WPR generates an event trace log file (.etl) with a name containing the computer name and date/time of capture and saves it in the folder specified by the "WprFolderPath" parameter.
+The script generates an event trace log file (.etl) with a name containing the computer name and the date-time of capture and saves it in the folder specified by the "WprFolderPath" parameter.
